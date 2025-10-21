@@ -1,0 +1,3 @@
+#program to print munbers 8,11,....,89
+for i in range(8,90,3):
+             print(i,end=" ") #here "end" keyword is used to space between two numbers
